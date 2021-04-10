@@ -6,4 +6,16 @@ medONE integrates various features in a convenient and easily operable website. 
 <p align = "center">
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img1.png"/>
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img2.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img3.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img4.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img5.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img6.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img7.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img8.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img9.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img10.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img11.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img12.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img13.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img14.png"/>
 </p>
