@@ -4,6 +4,6 @@ medONE integrates various features in a convenient and easily operable website. 
 
 # Screenshot
 <p align = "center">
-  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img1.png" width="800" />
-  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img2.png" width="800" />
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img1.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img2.png"/>
 </p>
