@@ -3,3 +3,7 @@ Managing medication supply is a challenge for all pharmacies. In a highly compet
 medONE integrates various features in a convenient and easily operable website. The website grants the user with the ability to manage the inventory such as adding, updating and removing medicine, ability to track the medicines which are low on supplies or expired; the user can also make sales and track their previous sales in both a diagrammatic manner or in a table form; finally, the feature which sets medONE apart from other pharmaceutical websites is to trade with other pharmacies if the user is low on supplies and needs some urgently or don’t want to buy in bulk from their supplier. 
 
 # Screenshot
+<p align = "center">
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img1.png" width="800" />
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img2.png" width="800" />
+</p>
