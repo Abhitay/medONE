@@ -21,3 +21,6 @@ medONE integrates various features in a convenient and easily operable website. 
 </p>
 
 # ER Diagram
+<p align = "center">
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/ERdiagram.png"/>
+</p>
