@@ -20,7 +20,8 @@ medONE integrates various features in a convenient and easily operable website. 
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/img14.png"/>
 </p>
 
-# ER Diagram
+# ER and architecture Diagram
 <p align = "center">
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/ERdiagram.png"/>
+  <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/architectureDiagram.png"/>
 </p>
