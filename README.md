@@ -25,3 +25,8 @@ medONE integrates various features in a convenient and easily operable website. 
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/ERdiagram.png"/>
   <img src="https://github.com/Maanaav/medONE/blob/main/src/images/GUI/architectureDiagram.png"/>
 </p>
+
+# Contribution
+A project by <br>
+[Maanaav Anil Motiramani](https://github.com/Maanaav) <br>
+[Abhitay Shinde](https://github.com/Abhitay)
