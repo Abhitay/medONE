@@ -30,3 +30,4 @@ medONE integrates various features in a convenient and easily operable website. 
 A project by <br>
 - [Maanaav Anil Motiramani](https://github.com/Maanaav) <br>
 - [Abhitay Shinde](https://github.com/Abhitay)
+- [Soham Patel](https://github.com/soham0912)
